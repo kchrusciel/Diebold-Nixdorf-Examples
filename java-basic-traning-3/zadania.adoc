@@ -1,4 +1,4 @@
-﻿= Java Part 4 - Exercices
+﻿= Java Part 3 - Exercices
 Exercices for Java practise
 == GIT
 * install GIT if you don't have it yet
@@ -8,5 +8,5 @@ Exercices for Java practise
 * clone repository locally
 * push all changes from exercices to remote repository
 == Java
-Perform tasks from a `zadania4.pdf` file.
+Perform tasks from a `zadania3.pdf` file.
 Author of this tasks is my colleague. 
