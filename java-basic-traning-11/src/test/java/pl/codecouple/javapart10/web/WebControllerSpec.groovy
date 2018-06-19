@@ -47,7 +47,7 @@ class WebControllerSpec extends Specification {
         when:
             def result = webDriver.findElement(By.tagName("li")).getText()
         then:
-            result == 'gabrysia'
+            result == 'List element'
     }
 
     Should "return 'About' title after click on <a>"() {
