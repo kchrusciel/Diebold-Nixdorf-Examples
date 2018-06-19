@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Emails list</title>
+</head>
+<body>
+<ul th:each="email : ${emails}">
+    <li th:id="${email.id}" th:text="${email.title}">[email.title]</li>
+</ul>
+</body>
+</html>
